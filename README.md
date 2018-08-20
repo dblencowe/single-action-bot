@@ -1,5 +1,5 @@
 # Single Action Bot
-Probably some of the most pointless code I've written. In honor of [https://github.com/MarkSG93](Mark Griffiths).
+Probably some of the most pointless code I've written. In honor of [Mark Griffiths](https://github.com/MarkSG93).
 
 ## How To
 - `composer install`
