@@ -1,0 +1,15 @@
+{
+    "name": "dblencowe/single-bot",
+    "authors": [
+        {
+            "name": "Dave",
+            "email": "dblencowe@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Dblencowe\\SABot\\": "src/"
+        }
+    },
+    "require": {}
+}
